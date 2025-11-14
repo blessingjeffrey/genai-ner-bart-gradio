@@ -7,7 +7,7 @@ To design and develop a prototype application for Named Entity Recognition (NER)
 
 ### DESIGN STEPS:
 
-#### STEP 1: Import Libraries and Load Environment Variables
+#### STEP 1: Import Libraries and Load Environment Variables 
 
 Import the necessary Python libraries: os, json, requests, gradio, and dotenv.
 
